@@ -6,20 +6,22 @@ Proyecto que corresponde al primer challenge de Alura
 
 En este desafío, se desarrollara una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
-El usuario deberá agregar nombres mediante un campo de texto y un botón "Añadir". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.}
-
+El usuario deberá agregar nombres mediante un campo de texto y un botón "Añadir". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
 <br>
 
 <h2> :white_check_mark: Estado del Proyecto: FINALIZADO Y FUNCIONANDO CORRECTAMENTE </h2>
-
+<br>
 <h2> :warning: Información importante :warning:</h2>
  Deberas descargar todos los archivos en la misma carpeta para que pueda funcionar de manera correcta dicha aplicación  y no marque errores de rutas o que no sea posible de localizar algun recurso importante. 
 
 <br>
 
 <h2> :pencil: Pre-requisitos </h2>
-No será necesario instalar algun software en especial para poder ejecutar la aplicación, solo basta con usar cualquier navegador web que tenga pre instalado en su PC.
+No será necesario instalar algun software en especial para poder ejecutar la aplicación, solo basta con usar cualquier navegador web que tenga pre instalado en su PC, debera seleccionar el archivo index.html y abrirlo con el navegador web de su preferencia.
+
+![navegador](https://github.com/user-attachments/assets/148ab4f6-0d09-4e78-99c8-4db9797872d5)
+
 
 
 <h2> :computer: Funcionalidades del proyecto </h2>
@@ -46,7 +48,7 @@ No será necesario instalar algun software en especial para poder ejecutar la ap
 <h3> :ferris_wheel: Sorteo aleatorio: </h3> Al hacer click en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 ![SorteoFinal](https://github.com/user-attachments/assets/8a052de3-dcee-4149-9f05-05ff2f5235e7)
-
+<em>  Para volver a ejecutar esta aplicación, solo bastara con presionar la tecla F5 o actualizar la página </em>
 
 
 *[Índice](#índice)
