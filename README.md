@@ -11,6 +11,8 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Añad
 
 <br>
 
+<h2> :white_check_mark: Estado del Proyecto: FINALIZADO Y FUNCIONANDO CORRECTAMENTE </h2>
+
 <h2> :warning: Información importante :warning:</h2>
  Deberas descargar todos los archivos en la misma carpeta para que pueda funcionar de manera correcta dicha aplicación  y no marque errores de rutas o que no sea posible de localizar algun recurso importante. 
 
