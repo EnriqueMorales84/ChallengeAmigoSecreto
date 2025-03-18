@@ -58,17 +58,10 @@ Las tecnologias utilizadas para desarrollar esta aplicación fueron 3:
  <li> JavaScript Para manejar la interacción entre el usuario y la aplicación, asi como validar datos y generar las listas necesarias para obtener el resultado final deseado</li>
 </ul>
 
+<h3> :black_nib: Autor</h3>
+Enrique Morales Espinosa, desarrollador web junior 
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+<h3> :bookmark_tabs: Licencia</h3>
+Este proyecto esta bajo licencia ALURA G8
 
-*[Acceso al proyecto](#acceso-proyecto)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
