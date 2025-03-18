@@ -48,14 +48,16 @@ No será necesario instalar algun software en especial para poder ejecutar la ap
 <h3> :ferris_wheel: Sorteo aleatorio: </h3> Al hacer click en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 ![SorteoFinal](https://github.com/user-attachments/assets/8a052de3-dcee-4149-9f05-05ff2f5235e7)
-<em>  Para volver a ejecutar esta aplicación, solo bastara con presionar la tecla F5 o actualizar la página </em>
+<strong>  <em>  Para volver a ejecutar esta aplicación, solo bastara con presionar la tecla F5 o actualizar la página </em> </strong>
 
+<h3> :hammer: Construido con :wrench: </h3>
+Las tecnologias utilizadas para desarrollar esta aplicación fueron 3:
+<ul>
+ <li> HTML Para realizar la estructura de la aplicación: cajas de texto, botones e imagenes</li>
+ <li> CSS Para estilizar la estructura, como son: colores, distribucíon de botones, tamaño, color, tipos de letra</li>
+ <li> JavaScript Para manejar la interacción entre el usuario y la aplicación, asi como validar datos y generar las listas necesarias para obtener el resultado final deseado</li>
+</ul>
 
-*[Índice](#índice)
-
-*[Descripción del proyecto](#descripción-del-proyecto)
-
-*[Estado del proyecto](#Estado-del-proyecto)
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
