@@ -22,27 +22,38 @@ No será necesario instalar algun software en especial para poder ejecutar la ap
 
 ![navegador](https://github.com/user-attachments/assets/148ab4f6-0d09-4e78-99c8-4db9797872d5)
 
-
-
 <h2> :computer: Funcionalidades del proyecto </h2>
 
-<h3> :pencil2:Elegir la opcion deseada del menu:</h3> Vamos a requerir dos valores: opcion del menu y monto deseado
-:newspaper: En nuestro caso elegimos la opcion 3 y un monto de 500
+<h3> :pencil2:Agregar nombres:</h3> Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer click en "Añadir".
 <br>
 
-<img src="/conversion.png">
+![agregarAmigo](https://github.com/user-attachments/assets/980eedd7-f34b-4bbe-84f2-e2a17caec6c0)
 
-:no_entry_sign: En caso de ingresar valores no correctos tanto en cuestion de opcion o montos , la aplicacion dejara de funcionar y debera de volver a ejecutarla nuevamente.
-<img src="opcionInvalida.png">
 
+:no_entry_sign: Entrada no valida: Si el campo de texto está vacío y el usuario da click en el boton "Añadir", el programa mostrará una alerta pidiendo un nombre válido.
+
+![EntradaNoValida](https://github.com/user-attachments/assets/d7b24720-8a11-42d5-951d-ea06322f7cb5)
+
+:no_entry_sign: Un punto a considerar : para poder realizar el sorteo del "Amigo secreto" se necesitaran minimo dos nombres, en caso contrario, la aplicación mostrara un 
+                mensaje de advertencia como en el anterior punto.
+
+![SorteoNoValido](https://github.com/user-attachments/assets/f686bf1c-fcd0-40f6-8ae1-99b1b0817cc3)
+
+<h3> :newspaper:Visualizar la lista:</h3> Una vez que haya ingresado el numero deseado de amigos, los nombres aparecerán en una lista debajo del campo de entrada.
+
+![ListaAmigos](https://github.com/user-attachments/assets/bc2f2f93-f0ca-493c-b4e9-de378e9dedc2)
+
+<h3> :ferris_wheel: Sorteo aleatorio: </h3> Al hacer click en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+![SorteoFinal](https://github.com/user-attachments/assets/8a052de3-dcee-4149-9f05-05ff2f5235e7)
+<strong>  <em>  Para volver a ejecutar esta aplicación, solo bastara con presionar la tecla F5 o actualizar la página </em> </strong>
 
 <h3> :hammer: Construido con :wrench: </h3>
-
 Las tecnologias utilizadas para desarrollar esta aplicación fueron 3:
 <ul>
- <li> Nuestro IDE IntelliJ</li>
- <li> Navegador para poder accesar a la api de monedas y poder hacer las conversiones correctamente</li>
- 
+ <li> HTML Para realizar la estructura de la aplicación: cajas de texto, botones e imagenes</li>
+ <li> CSS Para estilizar la estructura, como son: colores, distribucíon de botones, tamaño, color, tipos de letra</li>
+ <li> JavaScript Para manejar la interacción entre el usuario y la aplicación, asi como validar datos y generar las listas necesarias para obtener el resultado final deseado</li>
 </ul>
 
 <h3> :black_nib: Autor</h3>
@@ -50,5 +61,30 @@ Enrique Morales Espinosa, desarrollador web junior
 
 <h3> :bookmark_tabs: Licencia</h3>
 Este proyecto esta bajo licencia ALURA G8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
